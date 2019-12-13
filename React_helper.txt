@@ -15,3 +15,6 @@ then
 type: npm uninstall -g create-react-app
 
 	to ensure that "npx" use latest vrsion of "create-react-app"
+
+
+if we are createing any custom component then name of that component must start with capital letter.
